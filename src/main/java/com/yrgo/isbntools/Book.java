@@ -6,6 +6,7 @@ package com.yrgo.isbntools;
 	//another one
 	//jenkins test github
 	//testing 5 star 
+	//testing mail
 
 public class Book {
 	private String isbn;
